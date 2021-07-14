@@ -761,6 +761,17 @@ recipes:
     age: 3
     lore: Made with raw egg
 
+  spirytus:
+    name: spirytus
+    ingredients:
+      - Wheat/20
+    cookingtime: 7
+    distillruns: 16
+    distilltime: 75
+    color: 'ffffff'
+    difficulty: 9
+    alcohol: 65
+    lore: Strong
 
 
 
